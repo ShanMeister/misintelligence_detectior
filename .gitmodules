@@ -1,0 +1,6 @@
+[submodule "shared"]
+	path = shared
+	url = https://github.com/ShanMeister/sms_public_module.git
+[submodule "sms_public_module"]
+	path = sms_public_module
+	url = https://github.com/ShanMeister/sms_public_module.git
